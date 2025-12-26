@@ -1,7 +1,7 @@
 # Hi there, I'm Agos 🌸✨  
 
-🎓 I'm a **Software Development student** currently working on my thesis: a **school management system** built with **React** and **Node.js**.  
-💻 Currently taking a **Full Stack Development course**, but my main focus and interest is in **Frontend Development**.  
+🎓 I'm a **Frontend Developer** with a strong background as a **Systems Analyst**.  
+💻 I build modern, user-focused web applications using **React**, with solid experience in **Full Stack development**, **Software Testing**, and **AI Engineering**.  
 🚀 Always learning, building projects, and aiming to grow as a **Software Engineer**.  
 
 ---
@@ -19,6 +19,11 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-000000?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-5A67D8?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-805AD5?style=for-the-badge)
+
 <!-- Databases -->
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -32,22 +37,36 @@
 ---
 
 ## 📌 Current Projects
-- 🎓 **School Management System** – Web app for handling students, teachers, grades, and schedules, built with React + Vite. 
-- 🐱 **Pomodoro Kitty** – A cute and minimalist Pomodoro timer built Javascript, HTML and CSS.
-- 🌐 **Portfolio Website** – Showcasing my projects and skills.  
+### 🎓 School Management System (Thesis)
+Web application for managing students, teachers, subjects, grades and schedules.  
+**Tech:** React + Vite, Node.js, JWT, MySQL  
+> Real-world academic project focused on scalability, roles and clean architecture.
 
+### 🤖 Maestro de los Libros — AI Engineer Project
+AI-powered assistant that answers questions about books using **LLMs + RAG**.  
+**Tech:** Python, embeddings, vector search, prompt engineering  
+> Focused on retrieval-augmented generation, grounding responses and document-based Q&A.
+
+### 🐱 Pomodoro Kitty
+Cute and minimalist Pomodoro timer.  
+**Tech:** JavaScript, HTML, CSS  
+
+### 🌐 Portfolio Website
+Personal portfolio showcasing projects, skills and experience.  
+**Tech:** React, UI-focused design
 ---
 
 ## 🌱 What I'm learning
-- ✨ Advanced **Frontend Development** (React ecosystem, Vite, UI/UX best practices)  
-- 💎 **Software Engineering fundamentals** (design patterns, clean code, architecture)  
-- 🌸 **Backend basics** with Node.js and Express  
-
+- ✨ **Advanced Frontend Development** (React ecosystem, reusable components, UX/UI)
+- 🤖 **AI Engineering** (LLMs, RAG pipelines, embeddings, prompt engineering)
+- 🧪 **Software Testing** (manual testing, test case design, bug reporting, basic automation with JavaScript)
+- 💎 **Software Engineering fundamentals** (clean code, architecture, best practices)
+- ⚙️ **Backend integration** with Node.js & REST APIs
 ---
 
 ## 📫 Let's connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/agosro/)  
-- 📧 [Email](mailto:agostorres04@gmail.com)  
+- 📧 [Email](mailto:agosro.dev@gmail.com)  
 
 ---
 
