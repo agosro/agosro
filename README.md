@@ -50,7 +50,7 @@ AI-powered assistant that answers questions about books using **LLMs + RAG**.
 ### 📚 DocuAssist AI — Technical Documentation RAG System
 AI-powered system for querying technical manuals and internal documentation using Retrieval-Augmented Generation (RAG).
 **Tech:** Python, FastAPI, React, LangGraph, ChromaDB, Cohere
->Designed for real-world technical support: intent classification, automatic filter inference (brand/model/system), advanced reranking, guardrails, and full REST API with conversational history.
+> Designed for real-world technical support: intent classification, automatic filter inference (brand/model/system), advanced reranking, guardrails, and full REST API with conversational history.
 
 ### 🐱 Pomodoro Kitty
 Cute and minimalist Pomodoro timer.  
